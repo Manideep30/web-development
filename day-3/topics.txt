@@ -1,0 +1,10 @@
+Topics Covered
+
+Inline vs Block
+Div Element
+Span Element
+Hr Tag
+Sup and Sub Tags
+Semantic Markup 
+HTML Enitites
+Emmets
