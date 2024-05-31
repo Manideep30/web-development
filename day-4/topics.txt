@@ -1,0 +1,15 @@
+Topics Covered
+
+Tables in HTML
+Semantics in Tables
+Colspan and Rowspan Attributes
+Forms  in HTML
+Input Form Element
+Placeholders and Labels
+Button Element
+Name attribute
+Checkbox input
+Radio input
+Select input
+Range input
+Text Area
