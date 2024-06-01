@@ -1,0 +1,50 @@
+h2{
+    color:#ffa511;
+    text-decoration: teal double underline;
+    text-align: center;
+    font-family: league spartan;
+    font-weight: 900;
+    font-size: 55px;
+    letter-spacing: 2px;
+    line-height: 1.5;
+    text-transform: uppercase;
+
+    
+}
+p{
+    color: white;
+    background-color: black;
+}
+button{
+    color: white;
+    background-color: blue;
+}
+h3{
+    color: rgb(255,255,255);
+    background-color: #000000;
+}
+h4{
+    color: rgb(50, 168, 147);
+}
+
+input[type="radio"]:checked+label{
+    color: red;
+    background-color: green;
+}
+
+p:nth-of-type(2n){
+    color: orange;    
+    border: black;
+}
+
+.fb{
+    
+    color: #1b74e4;
+}
+div #btn{
+    background-color: aqua;
+}
+
+*{
+    font-family: 'Courier New';
+}
