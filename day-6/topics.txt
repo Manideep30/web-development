@@ -1,0 +1,13 @@
+Topics Covered
+
+Universal Selector
+Element Selector
+Id Selector
+Class Selector
+Descendant Selector
+Sibling Combinator
+Child Combinator
+Attribute Selector
+Pseudo Class
+Cascading and Specificity
+Inheritance

@@ -1,0 +1,63 @@
+.para{
+    height: 160px;
+    width: 750px;
+    background-color: orange;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    border-radius: 15px;
+    margin-left: 20%;
+    margin-top: 0%;
+    margin-bottom: 15px;
+    padding: 15px;
+}
+div .text-box{
+    display: inline-flexbox;
+}
+
+#modiji{
+    height: auto;
+    
+}
+h2{
+    color: blue;
+    margin-left: 30%;
+}
+h1{
+    margin-left: 35%;
+}
+button{
+    padding: 2px;
+    border-radius: 15px;
+    background-color: rgb(42, 42, 122);
+    color: white;
+    height: 30px;
+    width: 100px;
+    font-size: medium;
+    margin-left: 75%;
+}
+#modiji{
+    margin-left: 0%;
+}
+.outer{
+    border: 2px solid black;
+    height: 200px;
+    width: 70px;
+}
+.inner{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin: 10px;
+}
+#red{
+    background-color: red
+}
+#yellow{
+    background-color: yellow;
+}
+#green{
+    background-color: green;
+}
