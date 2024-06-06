@@ -1,0 +1,103 @@
+.container{
+    width: 800px;
+    height: 400px;
+    background-color: yellow;
+    display: grid;
+    grid-template-rows: 100px 100px 100px 100px 100px;
+    grid-template-columns: 200px 200px 200px 200px;
+}
+.container .item{
+    height: 50px;
+    width: 100px;
+    background-color: greenyellow;
+    text-align: center;
+    border: 2px solid black;
+}
+
+.animation{
+    width: 800px;
+    height: 300px;
+    animation: colornimation 4.5s ease-in 0s infinite normal;
+}
+
+@keyframes my_animation {
+    from{
+            background-color: green;
+
+    }
+    to{
+        background-color: orange;
+
+    }
+    
+}
+
+@keyframes colorAnimation {
+    0%{
+        font-size: 20px;
+        background-color: pink;
+    }
+    50%{
+        font-size: 5px;
+        background-color: aqua;
+    }
+    100%{
+        font-size: 30px;
+        background-color: orange;
+    }
+    
+}
+.practice{
+    background-color: palevioletred;
+    width: 1500px;
+    height: 400px;
+    display: grid;
+    grid-template-rows: repeat(12,1fr);
+    grid-template-columns: repeat(12,1fr);
+    border: 3px solid black;
+
+}
+.header{
+    display: grid;
+    grid-column-start:1 ;
+    grid-column-end: 13;
+    border: 5px solid white;
+    
+}
+.side-bar{
+    display: grid;
+    grid-row-start: 2;
+    grid-row-end: 12;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    border: 3px solid white;
+    
+}
+.navigation{
+    grid-row-start:2;
+    grid-row-end: 3;
+    grid-column-start: 4;
+    grid-column-end: 10;
+    border: 3px solid white;
+}
+.ads{
+    grid-row-start: 2;
+    grid-row-end: 12;
+    grid-column-start: 10;
+    grid-column-end: 13;
+    
+    border: 3px solid white;
+}
+.main{
+    grid-row-start: 3;
+    grid-row-end: 12;
+    grid-column-start: 4;
+    grid-column-end: 10;
+    border: 3px solid white;
+
+}
+.footer{
+    grid-column-start: 1;
+    grid-column-end: 13;
+    border: 3px solid white;
+}
