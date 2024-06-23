@@ -1,0 +1,16 @@
+JavaScript introduction
+Using the console
+Variable
+Data Types in JS
+Numbers in JS
+Operations in JS
+NaN in JS
+Operator Precedence
+Assignment Operators
+Unary Operators
+Identifier Rules
+Boolean in JS
+What is TypeScript?
+Strings in JS
+String indices
+null and undefined in JS
