@@ -1,0 +1,17 @@
+console.log()
+Linking JS file
+Template literals
+Operators in JS
+Comparison Operators
+Comparison for Non-Numbers
+Conditional Statements
+if statement
+else if statement
+else statement
+Nested if-else 
+Logical Operators
+truthy and falsy
+switch statement
+Alerts and Prompts
+
+
