@@ -1,0 +1,7 @@
+String methods
+Array
+Array methods
+Slice 
+Splice
+Arrays reference 
+const Arrays
