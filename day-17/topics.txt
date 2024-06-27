@@ -1,0 +1,12 @@
+for loop
+print odd numbers
+print even numbers
+print multiplication table
+nested for loop
+while loop
+favourite movie
+break keyword
+loops with arrays
+loops with nested arrays
+for of loop (new one in JS)
+Todo App (using JS)
