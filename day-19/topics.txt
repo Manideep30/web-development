@@ -1,0 +1,9 @@
+functions
+functions with arguments
+return keyword
+what is scope
+block scope
+lexical scope
+functions expressions
+higher order functions
+methods
