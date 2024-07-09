@@ -15,10 +15,19 @@ console.log(ans);
 /*write an arrow function names isEven() that takes a single number as argument and 
 returns if it is even or not */
 
-let num=5;
-const isEven=num=>{
-    return num%2==0;
+let num=9;
+const oddEven=(num)=>{
+    if(num%2==0){
+        return true;
+    }
+    return false;
 }
-let ans2=isEven(num);
-console.log(ans2);
+
+var a=oddEven(num);
+if(a){
+    console.log("Even");
+}
+else{
+    console.log("odd");
+}
 
