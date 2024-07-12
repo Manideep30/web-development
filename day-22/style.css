@@ -1,0 +1,12 @@
+p{
+    display: inline-block;
+    text-align: justify;
+}
+.box{
+    border: 2px solid black;
+    background-color: aliceblue;
+    display: inline-block;
+}
+.green{
+    color:green;
+}
