@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: rgb(99, 214, 99);
+}
+
+button{
+    background-color: rgba(15, 185, 188, 0.769);
+    color: white;
+}
+
+div{
+    height: 100px;
+    width: 500px;
+    border: 1px solid black;
+    margin: auto;
+    background-color: white;
+}
